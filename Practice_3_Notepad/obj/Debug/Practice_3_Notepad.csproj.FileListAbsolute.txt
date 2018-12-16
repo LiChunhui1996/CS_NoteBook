@@ -1,0 +1,10 @@
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\bin\Debug\Practice_3_Notepad.exe.config
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\bin\Debug\Practice_3_Notepad.exe
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\bin\Debug\Practice_3_Notepad.pdb
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.csprojAssemblyReference.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.Form1.resources
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.Properties.Resources.resources
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.csproj.GenerateResource.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.exe
+C:\Users\Rollhoop\Desktop\C#High\Practice_3_Notepad\Practice_3_Notepad\obj\Debug\Practice_3_Notepad.pdb
